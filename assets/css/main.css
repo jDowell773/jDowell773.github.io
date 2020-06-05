@@ -2826,7 +2826,7 @@ input, select, textarea {
 			background-color: #333;
 			color: rgba(255, 255, 255, 0.75);
 			background-attachment: fixed,							fixed;
-			background-image: url("/Users/acltc/actualize/jDowell773.github.io/assets/css/images/jonathan background.JPG"), url("/Users/acltc/actualize/jDowell773.github.io/assets/css/images/jonathan background.JPG");
+			background-image: url("/Users/acltc/actualize/jDowell773.github.io/assets/css/images/jonathan background.JPG"), url("../../images/header.jpg");
 			background-size: auto,							cover;
 		}
 
