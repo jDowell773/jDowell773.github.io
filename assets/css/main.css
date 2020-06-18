@@ -2826,7 +2826,7 @@ input, select, textarea {
 			background-color: #333;
 			color: black;
 			background-attachment: fixed,							fixed;
-			background-image: url("images/portfoliobackgroundimage.JPG"), url("images/portfoliobackgroundimage.JPG");
+			background-image: url("images/background_cropped.jpg"), url("images/background_cropped.jpg");
 			background-size: auto,							cover;
 		}
 
